@@ -9,16 +9,25 @@
 <br />
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Who I Am!
+<p align="justify"> 
 My academic journey commenced with a rigorous foundation in Mathematics and Physics at the National Organization for Development of Exceptional Talents (NODET) in Ardabil, Iran. Graduating as one of the top students in June 2017, I embarked on a transformative path in the realm of computer engineering. My Bachelor of Science journey unfolded at the University of Mohaghegh Ardabili, marked by notable achievements. Throughout my undergraduate years, I seamlessly transitioned from a diligent student to a dedicated Teaching Assistant (TA) and Head TA, overseeing courses in Data Structures, Algorithm Design, Advanced Programming, and the Fundamentals of Programming. Simultaneously, I contributed to research as a Research Assistant (RA) and shared my knowledge through workshops, specializing in Python and competitive programming.
-
+</p>
+<p align="justify"> 
 My prowess in computer science extended to the international stage, as I participated in the International Collegiate Programming Contest (ICPC) as a contestant in the Asia-West site, securing a commendable 22nd position in the 2018 round. These accomplishments were underscored by my consistent recognition as a distinguished student in every semester of my undergraduate journey. In February 2020, I graduated as the top-ranked student among a cohort of 49, boasting a GPA of 19.36 out of 20. My undergraduate thesis, titled "Windows Malware Detection based on Dynamic Behaviors using MLP," was conducted under the expert guidance of Professor Dr. Shahram Jamali, a luminary in the field of Computer Engineering at the University of Mohaghegh Ardabili.
-
+</p>
+<p align="justify"> 
 In September 2021, I embarked on a new academic odyssey, commencing my Master of Science (MSc) program at the esteemed Amirkabir University of Technology. My academic journey at this renowned institution commenced with an accolade, as I secured direct admission as a distinguished student. Over the course of two years, I diligently completed eight courses, culminating in an exceptional second-place ranking with a GPA of 18.47 out of 20, along with continued recognition as a distinguished student. My MSc journey also saw me assume various roles, including Head TA for Machine Learning and Pattern Recognition courses, TA for Deep Neural Networks and Image Processing courses tailored for graduate students, and Research Assistantship. My research contributions were instrumental in the Image-to-Image Translation research team, collaborating with F. Nooshi and Dr. M. Rahmati in the Image Processing and Pattern Recognition Lab. Additionally, I spearheaded a research team in the 3D Vision Lab, where I focused on point cloud classification using graph pooling techniques in collaboration with M. Choupan, M. Atyabi, and Dr. M. Javanmardi.
-
+</p>
+<p align="justify"> 
 My academic journey reached its pinnacle with my MSc thesis, a comprehensive exploration of "Few-Shot Classification on Multi-Label Data" under the meticulous guidance of Dr. M. Rahmati, a distinguished Professor of Computer Engineering at Amirkabir University of Technology.
-
+</p>
+<p align="justify"> 
 As I stand on the brink of my MSc graduation, I am poised to embark on a new chapter in my academic and research journey. With a profound passion for Machine/Deep Learning, Computer Vision, Graph Neural Networks, Generative Models, Complex Networks, and more, I am actively seeking opportunities to pursue a Ph.D. I am characterized by my unwavering work ethic, problem-solving prowess, and competitive programming skills. I thrive in challenging environments and relish the opportunity to delve into novel architectures and theoretical domains, translating concepts into practical experiments. My journey thus far has been marked by a relentless pursuit of excellence, and I eagerly anticipate the exciting prospects that lie ahead.
-<br />
+</p>
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=MohsenEbadpour&color=brightgreen" alt="watching_count" /> 
+ </p>
+
 <br />
 <br />
 
@@ -32,56 +41,50 @@ As I stand on the brink of my MSc graduation, I am poised to embark on a new cha
 
 <br />
 <br />
-<br />
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px></piture> List of remarkable repositories
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=MohsenEbadpour&color=brightgreen" alt="watching_count" />
- </p>
-
 ### Research Projects
-* [PointNet meets Self-Attention Graph Pooling: A Synergistic Approach to Point Cloud Classification]()
-* [An Adaptive Clustering Algorithm Based on Local-Density Peaks for Imbalanced Data Without Parameters]()
-* [Self-Attention Graph Pooling Extensions and Implementations]()
-* [Optimization of K-Nearest Neighbor for Face Recognition using Particle Swarm Optimization]()
-* [Spatial-Based Skin Detection using Discriminative Skin-Presence Features]()
-
-### Teaching Assistant
-* [Neural Computing and Deep Learning Course's Teaching Assistant]()
-* [Digital Image Processing Course's Teaching Assistant]()
-* [Pattern Recognition Course's Teaching Assistant]()
-* [Machine Learning Course's Head Teaching Assistant]()
+* [An Adaptive Clustering Algorithm Based on Local-Density Peaks for Imbalanced Data Without Parameters](https://github.com/MohsenEbadpour/An-Adaptive-Clustering-Algorithm-Based-on-Local-Density-Peaks-for-Imbalanced-Data-Without-Parameters)
+* [PointNet meets Self-Attention Graph Pooling: A Synergistic Approach to Point Cloud Classification](https://github.com/MohsenEbadpour/PointNet-meets-Self-Attention-Graph-Pooling-A-Synergistic-Approach-to-Point-Cloud-Classification)
+* [Self-Attention Graph Pooling Extensions and Implementations](https://github.com/MohsenEbadpour/Self-Attention-Graph-Pooling-Extensions-and-Implementations)
+* [Optimization of K-Nearest Neighbor for Face Recognition using Particle Swarm Optimization](https://github.com/MohsenEbadpour/Optimization-of-K-nearest-neighbor-using-particle-swarm-optimization-for-face-recognition-paper)
+* [Spatial-Based Skin Detection using Discriminative Skin-Presence Features](https://github.com/MohsenEbadpour/Spatial-Based-Skin-Detection-using-Discriminative-Skin-Presence-Features)
 
 ### Course Homeworks
-* [3D Computer Vision Course Homeworks]()
-* [Big Data Course Homeworks]()
-* [Complex Networks (and Graph Neural Networks) Course Homeworks]()
-* [Computer Vision Course Homeworks (Implementation source codes)]()
-* [Digital Image Processing (DIP) Course Homeworks (Implementation source codes)]()
+* [3D Computer Vision Course Homeworks](https://github.com/MohsenEbadpour/3D-Computer-Vision-Course-Homeworks)
+* [Big Data Course Homeworks](https://github.com/MohsenEbadpour/Big-Data-Course-Homeworks)
+* [Complex Networks (and Graph Neural Networks) Course Homeworks](https://github.com/MohsenEbadpour/Complex-Networks-and-Graph-Neural-Networks-Course-Homeworks)
+* [Computer Vision Course Homeworks (Implementation source codes)](https://github.com/MohsenEbadpour/Computer-Vision-Course-Homeworks-Implementation-source-codes-)
+* [Digital Image Processing (DIP) Course Homeworks (Implementation source codes)](https://github.com/MohsenEbadpour/Digital-Image-Processing-DIP-Course-Homeworks--Implementation-Source-Codes)
+
+### Teaching Assistant
+* [Neural Computing and Deep Learning Course's Teaching Assistant](https://github.com/MohsenEbadpour/Neural-Computing-and-Deep-Learning-Course-s-Teaching-Assistant)
+* [Digital Image Processing Course's Teaching Assistant](https://github.com/MohsenEbadpour/Digital-Image-Processing-Course-s-Teaching-Assistant)
+* [Pattern Recognition Course's Teaching Assistant](https://github.com/MohsenEbadpour/Pattern-Recognition-Course-s-Teaching-Assistant)
+* [Machine Learning Course's Head Teaching Assistant](https://github.com/MohsenEbadpour/Machine-Learning-Course-s-Head-Teaching-Assistant)
 
 ### Deep Learning Projects
-* [Neural Machine Translation using Transformers on Portuguese to English]()
-* [Deep Image Generation with Generative Networks: Investigating DCGAN and FCGAN Architectures]()
-* [Deep LSTM and GRU Networks for Stock Market Prediction]()
-* [Recurrent Neural Networks (RNNs) and implementing Elman and Jordan architectures]()
-* [CNN Implementation and Investigation on Beans Dataset]()
-* [Kohonen Self-Organizing Map for Dimension Reduction and Visualization]()
-* [Implementing MLPs with Keras and Tensorflow]()
-* [Perceptron and Adaline Neurons Implementation in Python]()
+* [Neural Machine Translation using Transformers on Portuguese to English](https://github.com/MohsenEbadpour/Neural-Machine-Translation-using-Transformers-on-Portuguese-to-English-)
+* [Deep Image Generation with Generative Networks: Investigating DCGAN and FCGAN Architectures](https://github.com/MohsenEbadpour/Deep-Image-Generation-with-Generative-Networks--Investigating-DCGAN-and-FCGAN-Architectures)
+* [Deep LSTM and GRU Networks for Stock Market Prediction](https://github.com/MohsenEbadpour/Deep-LSTM-and-GRU-Networks-for-Stock-Market-Prediction)
+* [Recurrent Neural Networks (RNNs) and implementing Elman and Jordan architectures](https://github.com/MohsenEbadpour/Recurrent-Neural-Networks--RNNs--and-implementing-Elman-and-Jordan-architectures)
+* [CNN Implementation and Investigation on Beans Dataset](https://github.com/MohsenEbadpour/CNN-Implementation-and-Investigation-on-Beans-Dataset)
+* [Kohonen Self-Organizing Map for Dimension Reduction and Visualization](https://github.com/MohsenEbadpour/Kohonen-Self-Organizing-Map-for-Dimension-Reduction-and-Visualization)
+* [Implementing MLPs with Keras and Tensorflow](https://github.com/MohsenEbadpour/Implementing-MLPs-with-Keras-and-Tensorflow)
+* [Perceptron and Adaline Neurons Implementation in Python](https://github.com/MohsenEbadpour/Perceptron-and-Adaline-Neurons-Implementation-in-Python)
 
 ### Some other ML related projects:
-* [Generating fake handwritten digits using estimated density]()
-* [Facial Recognition using Eigenfaces]()
-* [Patch Based Principal Component Analysis for Image Compression]()
-* [Implementation of reinforcement learning with policy and value iteration algorithms]()
-* [DBSCAN implementation in python programming language from scratch]()
+* [Generating fake handwritten digits using estimated density](https://github.com/MohsenEbadpour/Generating-fake-handwritten-digits-using-estimated-density)
+* [Facial Recognition using Eigenfaces](https://github.com/MohsenEbadpour/Facial-Recognition-using-Eigenfaces)
+* [Patch Based Principal Component Analysis for Image Compression](https://github.com/MohsenEbadpour/Patch-Based-Principal-Component-Analysis-for-Image-Compression)
+* [Implementation of reinforcement learning with policy and value iteration algorithms](https://github.com/MohsenEbadpour/Implementation-of-reinforcement-learning-with-policy-and-value-iteration-algorithms)
+* [DBSCAN implementation in python programming language from scratch](https://github.com/MohsenEbadpour/DBSCAN-implementation-in-python-programming-language-from-scratch)
 
 ### Web Development Projects
-* [Polling-Website]()
-* [Django-Medical-Clinic]()
+* [Polling-Website](https://github.com/MohsenEbadpour/Polling-Website)
+* [Django-Medical-Clinic](https://github.com/MohsenEbadpour/Django-Medical-Clinic)
 
 
-<br />
 <br />
 <br />
 
@@ -123,6 +126,4 @@ As I stand on the brink of my MSc graduation, I am poised to embark on a new cha
 </a>
 </p>
 
-<br />
-<br />
-<br />
+
