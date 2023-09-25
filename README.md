@@ -88,6 +88,10 @@ As I stand on the brink of my MSc graduation, I am poised to embark on a new cha
 ## Contact me
 
 <p align="center">
+  <a href="https://scholar.google.com/citations?hl=en&user=8wo0HZcAAAAJ" target="_blank">
+<img width="48" height="48" src="https://img.icons8.com/color/48/google-scholar--v3.png" alt="google-scholar--v3"/>
+</a>
+
  <a href="mailto:ebp.mohsen@gmail.com" target="_blank">
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/gmail-new.png" alt="gmail-new"/> 
  </a>
@@ -100,16 +104,25 @@ As I stand on the brink of my MSc graduation, I am poised to embark on a new cha
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>
  </a>
 
+
+ <a href="https://join.skype.com/invite/WAbDFL4MWFCp" target="_blank">
+ <img width="48" height="48" src="https://img.icons8.com/fluency/48/skype.png" alt="skype"/>
+ </a>
+
+
  <a href="https://t.me/Mohsenebp" target="_blank">
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/telegram-app.png" alt="telegram-app"/> 
+ </a>
+ 
+ <a href="https://wa.me/989361655805" target="_blank">
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/whatsapp.png" alt="whatsapp"/>
  </a>
 
 <a href="https://www.instagram.com/mohsenebp/" target="_blank">
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/>
 </a>
-
-<a href="https://scholar.google.com/citations?hl=en&user=8wo0HZcAAAAJ" target="_blank">
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/graduation-cap.png" alt="graduation-cap"/>
-</a>
-
 </p>
+
+<br />
+<br />
+<br />
