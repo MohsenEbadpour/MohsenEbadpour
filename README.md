@@ -44,6 +44,7 @@ As I stand on the brink of my MSc graduation, I am poised to embark on a new cha
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px></piture> List of remarkable repositories
 ### Research Projects
+* [LR-Net : A Block-based Convolutional Neural Network for Low Resolution Image Classification](https://github.com/MohsenEbadpour/LR-Net)
 * [An Adaptive Clustering Algorithm Based on Local-Density Peaks for Imbalanced Data Without Parameters](https://github.com/MohsenEbadpour/An-Adaptive-Clustering-Algorithm-Based-on-Local-Density-Peaks-for-Imbalanced-Data-Without-Parameters)
 * [PointNet meets Self-Attention Graph Pooling: A Synergistic Approach to Point Cloud Classification](https://github.com/MohsenEbadpour/PointNet-meets-Self-Attention-Graph-Pooling-A-Synergistic-Approach-to-Point-Cloud-Classification)
 * [Self-Attention Graph Pooling Extensions and Implementations](https://github.com/MohsenEbadpour/Self-Attention-Graph-Pooling-Extensions-and-Implementations)
