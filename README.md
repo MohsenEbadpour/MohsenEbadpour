@@ -42,6 +42,47 @@ As I stand on the brink of my MSc graduation, I am poised to embark on a new cha
 <br />
 <br />
 
+## Contact me
+
+<p align="center">
+  <a href="https://scholar.google.com/citations?hl=en&user=8wo0HZcAAAAJ" target="_blank">
+<img width="48" height="48" src="https://img.icons8.com/color/48/google-scholar--v3.png" alt="google-scholar--v3"/>
+</a>
+
+ <a href="mailto:ebp.mohsen@gmail.com" target="_blank">
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/gmail-new.png" alt="gmail-new"/> 
+ </a>
+
+ <a href="mailto:mohsenebadpour@outlook.com" target="_blank">
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/microsoft-outlook-2019.png" alt="microsoft-outlook-2019"/>
+ </a>
+
+ <a href="https://www.linkedin.com/in/mohsen-ebadpour-721a621b5/" target="_blank">
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>
+ </a>
+
+
+ <a href="https://join.skype.com/invite/WAbDFL4MWFCp" target="_blank">
+ <img width="48" height="48" src="https://img.icons8.com/fluency/48/skype.png" alt="skype"/>
+ </a>
+
+
+ <a href="https://t.me/Mohsenebp" target="_blank">
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/telegram-app.png" alt="telegram-app"/> 
+ </a>
+ 
+ <a href="https://wa.me/989361655805" target="_blank">
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/whatsapp.png" alt="whatsapp"/>
+ </a>
+
+<a href="https://www.instagram.com/mohsenebp/" target="_blank">
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/>
+</a>
+</p>
+
+<br />
+<br />
+
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px></piture> List of remarkable repositories
 ### Research Projects
 * [LR-Net : A Block-based Convolutional Neural Network for Low Resolution Image Classification](https://github.com/MohsenEbadpour/LR-Net)
@@ -84,47 +125,5 @@ As I stand on the brink of my MSc graduation, I am poised to embark on a new cha
 ### Web Development Projects
 * [Polling-Website](https://github.com/MohsenEbadpour/Polling-Website)
 * [Django-Medical-Clinic](https://github.com/MohsenEbadpour/Django-Medical-Clinic)
-
-
-<br />
-<br />
-
-## Contact me
-
-<p align="center">
-  <a href="https://scholar.google.com/citations?hl=en&user=8wo0HZcAAAAJ" target="_blank">
-<img width="48" height="48" src="https://img.icons8.com/color/48/google-scholar--v3.png" alt="google-scholar--v3"/>
-</a>
-
- <a href="mailto:ebp.mohsen@gmail.com" target="_blank">
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/gmail-new.png" alt="gmail-new"/> 
- </a>
-
- <a href="mailto:mohsenebadpour@outlook.com" target="_blank">
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/microsoft-outlook-2019.png" alt="microsoft-outlook-2019"/>
- </a>
-
- <a href="https://www.linkedin.com/in/mohsen-ebadpour-721a621b5/" target="_blank">
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>
- </a>
-
-
- <a href="https://join.skype.com/invite/WAbDFL4MWFCp" target="_blank">
- <img width="48" height="48" src="https://img.icons8.com/fluency/48/skype.png" alt="skype"/>
- </a>
-
-
- <a href="https://t.me/Mohsenebp" target="_blank">
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/telegram-app.png" alt="telegram-app"/> 
- </a>
- 
- <a href="https://wa.me/989361655805" target="_blank">
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/whatsapp.png" alt="whatsapp"/>
- </a>
-
-<a href="https://www.instagram.com/mohsenebp/" target="_blank">
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/>
-</a>
-</p>
 
 
