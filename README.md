@@ -7,7 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&pause=1000&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=MSc.+student+in+Computer+Engineering+in+AI;Amirkabir+University+of+Technology(AUT);Deep+Learning+Researcher+and+Developer;Compititive+Programmer;)](https://git.io/typing-svg)
 <br />
-
+<!-- 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Who I Am!
 <p align="justify"> 
 My academic journey commenced with a rigorous foundation in Mathematics and Physics at the National Organization for Development of Exceptional Talents (NODET) in Ardabil, Iran. Graduating as one of the top students in June 2017, I embarked on a transformative path in the realm of computer engineering. My Bachelor of Science journey unfolded at the University of Mohaghegh Ardabili, marked by notable achievements. Throughout my undergraduate years, I seamlessly transitioned from a diligent student to a dedicated Teaching Assistant (TA) and Head TA, overseeing courses in Data Structures, Algorithm Design, Advanced Programming, and the Fundamentals of Programming. Simultaneously, I contributed to research as a Research Assistant (RA) and shared my knowledge through workshops, specializing in Python and competitive programming.
@@ -30,7 +30,7 @@ As I stand on the brink of my MSc graduation, I am poised to embark on a new cha
 
 <br />
 <br />
-
+-->
 ## 🛠️ Programming Languages, Technologies and Tools
 
 <p align="center">
