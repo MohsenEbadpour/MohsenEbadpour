@@ -24,13 +24,14 @@ My academic journey reached its pinnacle with my MSc thesis, a comprehensive exp
 <p align="justify"> 
 As I stand on the brink of my MSc graduation, I am poised to embark on a new chapter in my academic and research journey. With a profound passion for Machine/Deep Learning, Computer Vision, Graph Neural Networks, Generative Models, Complex Networks, and more, I am actively seeking opportunities to pursue a Ph.D. I am characterized by my unwavering work ethic, problem-solving prowess, and competitive programming skills. I thrive in challenging environments and relish the opportunity to delve into novel architectures and theoretical domains, translating concepts into practical experiments. My journey thus far has been marked by a relentless pursuit of excellence, and I eagerly anticipate the exciting prospects that lie ahead.
 </p>
+-->
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=MohsenEbadpour&color=brightgreen" alt="watching_count" /> 
  </p>
 
 <br />
 <br />
--->
+
 ## 🛠️ Programming Languages, Technologies and Tools
 
 <p align="center">
