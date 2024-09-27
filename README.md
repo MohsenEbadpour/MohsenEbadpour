@@ -105,6 +105,7 @@ As I stand on the brink of my MSc graduation, I am poised to embark on a new cha
 * [Digital Image Processing Course's Teaching Assistant](https://github.com/MohsenEbadpour/Digital-Image-Processing-Course-s-Teaching-Assistant)
 * [Pattern Recognition Course's Teaching Assistant](https://github.com/MohsenEbadpour/Pattern-Recognition-Course-s-Teaching-Assistant)
 * [Machine Learning Course's Head Teaching Assistant](https://github.com/MohsenEbadpour/Machine-Learning-Course-s-Head-Teaching-Assistant)
+* [Big Data Analytics Course's Teaching Assistant](https://github.com/MohsenEbadpour/Big-Data-Analytics-Course-s-Teaching-Assistant)
 
 ### Deep Learning Projects
 * [Neural Machine Translation using Transformers on Portuguese to English](https://github.com/MohsenEbadpour/Neural-Machine-Translation-using-Transformers-on-Portuguese-to-English-)
