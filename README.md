@@ -5,7 +5,6 @@
 </p>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&pause=1000&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=MSc.+in+Computer+Engineering+in+AI;Amirkabir+University+of+Technology(AUT);Deep+Learning+Researcher+and+Developer;Compititive+Programmer;)](https://git.io/typing-svg)
 <br />
 <!-- 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Who I Am!
