@@ -4,7 +4,7 @@
 </p>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&pause=1000&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=MSc.+in+Computer+Engineering+in+AI;Amirkabir+University+of+Technology(AUT);Deep+Learning+Researcher+and+Developer;Compititive+Programmer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&pause=1000&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=PhD student+in+Computer+Engineering+in+AI;Amirkabir+University+of+Technology(AUT);Deep+Learning+Researcher+and+Developer;Compititive+Programmer;)](https://git.io/typing-svg)
 <br />
 <!-- 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Who I Am!
@@ -59,11 +59,6 @@ As I stand on the brink of my MSc graduation, I am poised to embark on a new cha
 
  <a href="https://www.linkedin.com/in/mohsen-ebadpour-721a621b5/" target="_blank">
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>
- </a>
-
-
- <a href="https://join.skype.com/invite/WAbDFL4MWFCp" target="_blank">
- <img width="48" height="48" src="https://img.icons8.com/fluency/48/skype.png" alt="skype"/>
  </a>
 
 
