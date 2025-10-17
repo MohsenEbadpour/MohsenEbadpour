@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,linux,bash,git,gitlab,docker,kubernetes,prometheus,grafana,redis,elasticsearch,py,anaconda,django,fastapi,go,cs,dotnet&perline=10" />
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,linux,bash,git,docker,kubernetes,prometheus,grafana,redis,elasticsearch,py,anaconda,django,fastapi,go,cs,dotnet&perline=10" />
   </a>
 </p>
 
